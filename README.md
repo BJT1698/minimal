@@ -1,4 +1,4 @@
-# My personalization of the minima theme 
+# My personalization of the minimal theme 
 
 Nothing too special 
 
